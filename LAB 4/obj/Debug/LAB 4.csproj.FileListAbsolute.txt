@@ -1,0 +1,10 @@
+D:\БГТУ\ООП\ЛР 4\LAB 4\LAB 4\bin\Debug\LAB 4.exe.config
+D:\БГТУ\ООП\ЛР 4\LAB 4\LAB 4\bin\Debug\LAB 4.exe
+D:\БГТУ\ООП\ЛР 4\LAB 4\LAB 4\bin\Debug\LAB 4.pdb
+D:\БГТУ\ООП\ЛР 4\LAB 4\LAB 4\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\БГТУ\ООП\ЛР 4\LAB 4\LAB 4\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\БГТУ\ООП\ЛР 4\LAB 4\LAB 4\obj\Debug\LAB 4.csproj.AssemblyReference.cache
+D:\БГТУ\ООП\ЛР 4\LAB 4\LAB 4\obj\Debug\LAB 4.csproj.CoreCompileInputs.cache
+D:\БГТУ\ООП\ЛР 4\LAB 4\LAB 4\obj\Debug\LAB 4.csproj.CopyComplete
+D:\БГТУ\ООП\ЛР 4\LAB 4\LAB 4\obj\Debug\LAB 4.exe
+D:\БГТУ\ООП\ЛР 4\LAB 4\LAB 4\obj\Debug\LAB 4.pdb
